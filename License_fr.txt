@@ -1,0 +1,32 @@
+NOTE: CECI EST UNE TRADUCTION AUTOMATIQUE DE L'ORIGINAL ALLEMAND.
+
+Contrat de licence du logiciel pour le FB-MailService de FB Software
+
+À partir de: Juillet 2020
+
+
+1. Objet du contrat
+
+FB Software accorde au licencié le droit illimité d'utiliser le FB-MailService, le WebServiceClient et le ProcessStarter (le logiciel) ainsi que la documentation afférente aux termes de ce contrat.
+Pour le reste, tous les droits sur le logiciel et la documentation restent chez FB Software.
+Le transfert du logiciel s'effectue exclusivement sous forme compilée.
+Les logiciels et la documentation sont protégés par des droits d'auteur.
+
+
+2. Droits et obligations du licencié
+
+(a) Le licencié est autorisé à utiliser le logiciel de la manière décrite dans la documentation, à condition que l'utilisation soit exclusivement privée. Le nombre de comptes utilisables n'est pas artificiellement limité par ce contrat de licence.
+
+(b) Le Licencié a le devoir d'utiliser le Logiciel uniquement conformément aux informations, descriptions, conditions et restrictions fournies dans la Documentation.
+
+(c) Le Licencié n'est pas autorisé à modifier, compiler, modifier ou décompiler, désosser ou désassembler le Logiciel en un code lisible par l'homme.
+
+
+3. Responsabilité
+
+Pour les dommages de toute nature résultant de la manipulation du logiciel ou de la documentation, toute responsabilité est exclue dans la mesure permise par la loi.
+
+
+4. Disposition finale
+
+Si des dispositions individuelles de ce contrat sont ou deviennent inefficaces, cela n'affecte pas la validité des autres dispositions.

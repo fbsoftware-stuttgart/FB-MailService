@@ -1,0 +1,32 @@
+NOTA: ESTA ES UNA TRADUCCIÓN DE MÁQUINA DEL ORIGINAL ALEMÁN.
+
+Acuerdo de licencia de software para el FB-MailService de FB Software
+
+A partir de: Julio 2020
+
+
+1. Objeto del contrato
+
+FB Software otorga al licenciatario el derecho ilimitado de utilizar el FB-MailService, el WebServiceClient y el ProcessStarter (el software), así como la documentación relacionada a los términos de este contrato.
+Por lo demás, todos los derechos sobre el software y la documentación permanecen con FB Software.
+La transferencia del software se realiza exclusivamente en forma compilada.
+El software y la documentación son materiales con copyright.
+
+
+2. Derechos y obligaciones del licenciatario
+
+(a) El licenciatario tiene derecho a usar el software de la manera descrita en la documentación, siempre que el uso sea exclusivamente privado. El número de cuentas utilizables no está limitado de forma artificial por este acuerdo de licencia.
+
+(b) El titular de la licencia tiene el deber de utilizar el software únicamente de conformidad con la información, las descripciones, las condiciones y las restricciones que figuran en la documentación.
+
+(c) El Licenciatario no está autorizado para modificar, compilar, editar o descompilar, realizar ingeniería inversa o desensamblar el Software en un código humano legible.
+
+
+3. Responsabilidad
+
+Por daños y perjuicios de cualquier tipo que resulten del manejo del software o la documentación, se excluye cualquier responsabilidad en la medida permitida por la ley.
+
+
+4. Disposición final
+
+Si las disposiciones individuales de este contrato son o dejan de ser efectivas, esto no afectará la validez de las disposiciones restantes.

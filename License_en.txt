@@ -1,0 +1,32 @@
+NOTE: THIS IS A MACHINE TRANSLATION OF THE GERMAN ORIGINAL.
+
+Software license agreement for the FB mail service of FB Software
+
+As of: July 2020
+
+
+1. Subject of the contract
+
+FB Software grants the licensee the unlimited right to use the FB-MailService, the WebServiceClient and the ProcessStarter (the software) as well as the related documentation to the terms of this contract.
+For the rest, all rights to the software and the documentation remain with FB Software.
+The transfer of the software takes place exclusively in compiled form.
+Software and documentation are copyrighted materials.
+
+
+2. Rights and obligations of the licensee
+
+(a) Licensee may use the Software in the manner described in the Documentation, provided that the use is exclusively private. The number of usable accounts is not artificially limited by this license agreement.
+
+(b) Licensee has the duty to use the Software only in accordance with the information, descriptions, conditions and restrictions provided in the Documentation.
+
+(c) The Licensee is not authorized to modify, compile, edit or decompile, reverse engineer or disassemble the Software into a human readable code.
+
+
+3. Liability
+
+For damages of any kind resulting from the handling of the software or documentation, any liability is excluded to the extent permitted by law.
+
+
+4. Final provision
+
+If individual provisions of this contract are or become ineffective, this shall not affect the validity of the remaining provisions.
