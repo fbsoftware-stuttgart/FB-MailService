@@ -18,7 +18,8 @@ Bei Software und Dokumentation handelt es sich um urheberrechtlich geschütztes 
 Natur ist. 
 Die Anzahl verwendbarer Konten wird durch diesen Lizenzvertrag nicht künstlich beschränkt.
 
-(b) Der Lizenznehmer hat die Pflicht, die Software nur unter Beachtung der in der Dokumentation gegebenen Informationen, Beschreibungen, Bestimmungen und Einschränkungen einzusetzen.
+(b) Der Lizenznehmer hat die Pflicht, die Software nur unter Beachtung der in der Dokumentation gegebenen Informationen, Beschreibungen, Bestimmungen und 
+Einschränkungen einzusetzen.
 
 (c) Der Lizenznehmer ist nicht berechtigt, die Software zu ändern, zu compilieren, zu bearbeiten oder durch Dekompilation, Reverse Engineering oder Disassemblierung zu 
 einem für Menschen lesbaren Code zu gelangen.
