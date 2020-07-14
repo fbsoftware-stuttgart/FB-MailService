@@ -5,8 +5,8 @@ Stand: Juli 2020
 
 1. Vertragsgegenstand
 
-FB Software räumt dem Lizenznehmer das unbefristete Recht ein, den FB-Mailservice, den WebServiceClient und den ProcessStarter (die Software) sowie die zugehörige Dokumentation zu
-den Bedingungen dieses Vertrages zu nutzen.
+FB Software räumt dem Lizenznehmer das unbefristete Recht ein, den FB-Mailservice, den WebServiceClient und den ProcessStarter (die Software) sowie die zugehörige 
+Dokumentation zu den Bedingungen dieses Vertrages zu nutzen.
 Im Übrigen verbleiben alle Rechte an der Software und der Dokumentation bei FB Software.
 Die Überlassung der Software erfolgt ausschließlich in kompilierter Form.
 Bei Software und Dokumentation handelt es sich um urheberrechtlich geschütztes Material.
@@ -14,13 +14,14 @@ Bei Software und Dokumentation handelt es sich um urheberrechtlich geschütztes 
 
 2. Rechte und Pflichten des Lizenznehmers
 
-(a) Der Lizenznehmer ist berechtigt, die Software gemäß der in der Dokumentation beschriebenen Art und Weise einzusetzen, sofern die Nutzung ausschließlich privater Natur ist. 
+(a) Der Lizenznehmer ist berechtigt, die Software gemäß der in der Dokumentation beschriebenen Art und Weise einzusetzen, sofern die Nutzung ausschließlich privater 
+Natur ist. 
 Die Anzahl verwendbarer Konten wird durch diesen Lizenzvertrag nicht künstlich beschränkt.
 
 (b) Der Lizenznehmer hat die Pflicht, die Software nur unter Beachtung der in der Dokumentation gegebenen Informationen, Beschreibungen, Bestimmungen und Einschränkungen einzusetzen.
 
-(c) Der Lizenznehmer ist nicht berechtigt, die Software zu ändern, zu compilieren, zu bearbeiten oder durch Dekompilation, Reverse Engineering oder Disassemblierung zu einem für
-Menschen lesbaren Code zu gelangen.
+(c) Der Lizenznehmer ist nicht berechtigt, die Software zu ändern, zu compilieren, zu bearbeiten oder durch Dekompilation, Reverse Engineering oder Disassemblierung zu 
+einem für Menschen lesbaren Code zu gelangen.
 
 
 3. Haftung
