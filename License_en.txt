@@ -7,7 +7,7 @@ As of: July 2020
 
 1. Subject of the contract
 
-FB Software grants the licensee the unlimited right to use the FB-MailService, the WebServiceClient and the ProcessStarter (the software) as well as the related documentation to the terms of this contract.
+FB Software grants the licensee the unlimited right to use the FB-MailService, the WebServiceClient, the WSC-App and the ProcessStarter (the software) as well as the related documentation to the terms of this contract.
 For the rest, all rights to the software and the documentation remain with FB Software.
 The transfer of the software takes place exclusively in compiled form.
 Software and documentation are copyrighted materials.
