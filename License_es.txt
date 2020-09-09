@@ -7,7 +7,7 @@ A partir de: Julio 2020
 
 1. Objeto del contrato
 
-FB Software otorga al licenciatario el derecho ilimitado de utilizar el FB-MailService, el WebServiceClient y el ProcessStarter (el software), así como la documentación relacionada a los términos de este contrato.
+FB Software otorga al licenciatario el derecho ilimitado de utilizar el FB-MailService, el WebServiceClient, el WSC-App y el ProcessStarter (el software), así como la documentación relacionada a los términos de este contrato.
 Por lo demás, todos los derechos sobre el software y la documentación permanecen con FB Software.
 La transferencia del software se realiza exclusivamente en forma compilada.
 El software y la documentación son materiales con copyright.
