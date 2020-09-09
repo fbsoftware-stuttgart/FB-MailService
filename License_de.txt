@@ -5,7 +5,7 @@ Stand: Juli 2020
 
 1. Vertragsgegenstand
 
-FB Software räumt dem Lizenznehmer das unbefristete Recht ein, den FB-Mailservice, den WebServiceClient und den ProcessStarter (die Software) sowie die zugehörige 
+FB Software räumt dem Lizenznehmer das unbefristete Recht ein, den FB-Mailservice, den WebServiceClient, die WSC-App und den ProcessStarter (die Software) sowie die zugehörige 
 Dokumentation zu den Bedingungen dieses Vertrages zu nutzen.
 Im Übrigen verbleiben alle Rechte an der Software und der Dokumentation bei FB Software.
 Die Überlassung der Software erfolgt ausschließlich in kompilierter Form.
