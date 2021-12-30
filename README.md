@@ -7,7 +7,7 @@ Die verwendete Implementierungssprache ist Java.
 Zur Installation FB-MailService-Install.jar herunterladen, ausführen (Java Runtime Environment wird benötigt) und den Anweisungen folgen. 
 Darin enthalten sind sowohl Server als auch Clients (die Desktop-Version für PCs für die Webservice-Schnittstelle und die WSC-App für Android-Geräte).
 
-Der enthaltene Web-Client ist in allen gängigen Browser (Chrome, Edge, Firefox, Safari) lauffähig.
+Der enthaltene Web-Client ist in allen gängigen Browsern (Chrome, Edge, Firefox, Safari) lauffähig.
 
 EN:
 
