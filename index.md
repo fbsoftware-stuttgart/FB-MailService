@@ -15,3 +15,8 @@ The FB-MailService is a mail server with groupware functionality (mails, address
 To install, download [FB-MailService-Install.jar](https://github.com/fbsoftware-stuttgart/FB-MailService/raw/master/FB-MailService-Install.jar), run it (Java Runtime Environment needed) and follow the instructions. This includes both server and clients (the desktop version for PCs for the web service interface and the WSC app for Android devices).
 
 The web client can be run in all current browsers (Chrome, Edge, Firefox, Safari).
+
+
+
+
+FB Software - Dipl.-Inf. Felix Billau
